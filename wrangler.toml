@@ -1,4 +1,4 @@
-name = "root" # todo
+name = "maizil" # todo
 #name = "cf-worker-connect-test" # todo
 #main = "test/worker/cf-cdn-cgi-trace2.js"
 #main = "test/worker/worker-connect-test.js"
@@ -12,4 +12,4 @@ compatibility_date = "2023-05-26"
 # NODE_ID = "1"
 # API_TOKEN = "example_dev_token"
 # API_HOST = "api.v2board.com"
-UUID = "d342d11e-d424-4583-b36e-524ab1f0afa5"
+UUID = "f0dc93ca-7766-44bc-bdc3-8e54de6692a7"
